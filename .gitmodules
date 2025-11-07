@@ -1,0 +1,6 @@
+[submodule "src/dimensionless"]
+	path = src/dimensionless
+	url = https://github.com/mathcal-S/dimensionless
+[submodule "src/esqet-unified"]
+	path = src/esqet-unified
+	url = https://github.com/mathcal-S/ESQET-Unified-Framework-2025
