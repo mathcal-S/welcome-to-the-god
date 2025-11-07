@@ -1,0 +1,6 @@
+flask==3.0.0
+numpy==2.1.1
+qiskit==1.2.4
+qiskit-aer==0.15.1  # Pre-built wheel for aarch64
+ollama==0.3.3  # For proposals; optional
+# No pytermux - use subprocess for Termux API
