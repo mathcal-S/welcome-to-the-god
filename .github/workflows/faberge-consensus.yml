@@ -29,7 +29,7 @@ jobs:
       id: run_test
       run: |
         echo "Starting AGI Coherence Validation..."
-        python test_faberge_consensus.py
+        python tests/test_faberge_consensus.py
 
     - name: CI/CD Status Report
       if: always()
